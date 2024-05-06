@@ -2,7 +2,7 @@
 <b>HONEY WAIFU HUSBANDO CATCHER</b>
 </p>
 
-![Image](https://graph.org/file/9901c2070cea11d1aa194.jpg)
+![Image](https://graph.org/file/d5a2374e6027b72e92ae1.jpg)
 
 ## WAIFU & HUSBANDO CATCHER 
 
