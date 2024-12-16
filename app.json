@@ -4,31 +4,31 @@
   "repository": "https://github.com/Gojosatoru78/Bonten_Coypright",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID",
+      "description": "29348525",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API Hash",
+      "description": "d815eb5b92d9ba6e35c45fa4a85db492",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token",
+      "description": "7045334311:AAG4H2ErRsWPQoHiIN6YEQSdKHiFM53zFew",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your Bot Username",
+      "description": "Snatch_Your_Character_Bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID (Owner)",
+      "description": "6138142369",
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Your Logger Chat ID",
+      "description": "-1002392274240",
       "required": true
     },
     "MONGO_URL": {
-      "description": "Your MongoDB URL",
+      "description": "mongodb+srv://manasmishra6000:manas@#123@cluster0.ocpf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     }
   },
